@@ -13,8 +13,12 @@ export default function Home() {
       <main>
         <Header title="This is my first App" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          And it acutally works. This WebApp is built with next.js
+          Am i able to add another section?
+             <code>pages/index.js</code>
         </p>
+
+        
       </main>
 
       <Footer />
