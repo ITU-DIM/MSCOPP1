@@ -14,7 +14,9 @@ export default function Home() {
         <Header title="This is my first App" />
         <p className="description">
           And it acutally works. This WebApp is built with next.js
-          Am i able to add another section? <code>pages/index.js</code>
+          Am i able to add another section? 
+
+          Where does this go?
         </p>
 
         
